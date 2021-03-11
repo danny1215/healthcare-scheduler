@@ -31,6 +31,10 @@ This Application can be used by clonning it, open in command prompt, bash or use
 
 - The Link To Heroku [healthcare-scheduler](https://immense-escarpment-50949.herokuapp.com/)
 
+## LICENSE
+
+- MIT
+
 ## SCREENSHOTS
 
 
